@@ -24,7 +24,10 @@ import java.util.LinkedList;
 /**
  * @author xyczero617@gmail.com
  * @time 15/11/21
+ a 
  */
+
+ 
 
 public class TintInfo {
     public ColorStateList mTintList;
